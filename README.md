@@ -1,1 +1,2 @@
-# [Readme.txt](https://github.com/plnh/Hangman/files/7039066/Readme.txt)
+# [Readme.txt]
+This is where I keep all Python codes and documents
